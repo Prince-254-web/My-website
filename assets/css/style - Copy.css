@@ -1,0 +1,13 @@
+.alert {
+  margin-bottom: 15px;
+}
+
+.dropdown-menu {
+  padding: 15px;
+  width: 300px;
+}
+
+.dropdown-menu input[type="text"],
+.dropdown-menu input[type="password"] {
+  margin-bottom: 15px;
+}
